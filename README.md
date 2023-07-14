@@ -8,7 +8,7 @@
 - 🔭 &nbsp; I’m currently a Software Development Intern at CPF Board.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at Nanyang Technological University.
-- 💼 &nbsp; Devops Engineer.
+- 💼 &nbsp; Software Engineer.
 - 🌱 &nbsp; Enthusiast in Cyber Security and Cloud Technologies.
 - ✍️ &nbsp; Part time Weeaboo and Koreaboo
 - ☕ &nbsp; Lattes should be a coding ritual
