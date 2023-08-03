@@ -5,7 +5,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently a Software Development Intern at CPF Board.
+- 🔭 &nbsp; I’m currently a Computer Science Penultimate Undergraduate
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at Nanyang Technological University.
 - 💼 &nbsp; Software Engineer.
