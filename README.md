@@ -5,7 +5,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently a Computer Science Penultimate Undergraduate
+- 🔭 &nbsp; I’m currently a Computer Science Senior Undergraduate
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at Nanyang Technological University.
 - 💼 &nbsp; Software Engineer.
@@ -16,7 +16,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java | C | HTML | CSS | JavaScript | TypeScript
-- 🌐 &nbsp; Android 
+- 🌐 &nbsp; Android | Kotlin 
 - 🛢 &nbsp; MySQL | MongoDB | PostgreSQL
 - 🔧 &nbsp; Visual Studio code | Eclipse | Atom | Git
 
