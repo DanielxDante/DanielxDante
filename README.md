@@ -9,7 +9,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science at Nanyang Technological University.
 - 💼 &nbsp; Software Engineer.
-- 🌱 &nbsp; Enthusiast in Cyber Security and Cloud Technologies.
+- 🌱 &nbsp; Enthusiast in Cyber Security and DevOps Technologies.
 - ✍️ &nbsp; Part time Weeaboo and Koreaboo
 - ☕ &nbsp; Lattes should be a coding ritual
 
